@@ -1,14 +1,7 @@
-# Sales-Finance-Analytics-Excel
-Excel Sales & Finance Analytics
+# Excel Sales & Finance Analytics
 
 ## Project objective:
+Create Customer Performance and Market Performance vs. Sales Target Reports for Atliq Hardware
 
-** Create a Sales report **
-
-2. Conduct a comprehensive comparison between last years sales & finance performance
-
-Purpose of sales analytics: Empower businesses to monitor and evaluate their sales activities and performance.
-
-Importance of analyzing sales data: Identify sales patterns and track key performance indicators (KPIs).
-
-Role of reports: Determine effective customer discounts, facilitate negotiations with consumers, and identify potential business expansion opportunities in promising countries.
+- **A Customer Performance Report essential to understand how Atliq's customers are interacting with their products.**
+- **A P&L statement by Year and by Months to understand Atliq's yearly financial performance.**.  
